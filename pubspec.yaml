@@ -1,0 +1,46 @@
+name: outfit_app
+description: OUT fIT Fashion Store App
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.1.0
+  cached_network_image: ^3.3.1
+  google_sign_in: ^6.2.1
+  sign_in_with_apple: ^6.1.0
+  firebase_core: ^4.8.0
+  firebase_auth: ^6.5.0
+  cloud_firestore: ^6.4.0
+  shimmer: ^3.0.0
+  firebase_storage: ^13.4.1
+  image_picker: ^1.2.2
+  http: ^1.2.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.jpg
+    - assets/images/pleated_noir_gown.jpg
+    - assets/images/profile_photo.jpg
+    - assets/images/silk_blazer.jpg
+    - assets/images/steal_pointed_pump.jpg
+    - assets/images/steel_leather_tote.jpg
+    - assets/images/classic_oxford_shirt.jpg
+    - assets/images/tailored_chinos.jpg
+    - assets/images/kids_dress.jpg
+    - assets/images/kids_tshirt.jpg
+    - assets/images/kids_sneakers.jpg
+    - assets/images/men_jacket.jpg
+    - assets/images/men_polo.jpg

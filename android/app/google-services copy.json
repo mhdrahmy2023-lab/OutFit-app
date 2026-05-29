@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "421634876367",
+    "project_id": "outfit-1aa79",
+    "storage_bucket": "outfit-1aa79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421634876367:android:0adf85fef13132979ba8ba",
+        "android_client_info": {
+          "package_name": "com.example.out_fit_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421634876367-eq5mnr8qr8t24reuvvkr46chc85vurh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFPfricF_6FQyEer1Ct8vf2eolj41Uns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421634876367-eq5mnr8qr8t24reuvvkr46chc85vurh5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421634876367-6pl2ru25i17erdpcvqquh2m7aivjc3rg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.outFitApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
